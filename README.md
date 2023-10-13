@@ -9,7 +9,7 @@
 ### Скачать
 
 Python3 должен быть уже установлен.
-[Скачать](https://github.com/Araime/simple-platformer/archive/master.zip) этот 
+[Скачать](https://github.com/Araime/alien-attack/archive/master.zip) этот 
 репозиторий себе на компьютер.
 
 Рекомендуется использовать [virtualenv/venv](https://docs.python.org/3/library/venv.html)
